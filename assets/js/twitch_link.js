@@ -191,6 +191,8 @@ link["brokyy"] = 0;
 link["malik_cs"] = "malik_cs";
 link["kaper-"] = "kap3rq";
 link["faveN-"] = "faveny";
+link["RpK"] = "rpk";
+link["El_Patron-_-"] = 0;
 
 // NA //
 link["dapr"] = "dapr";
